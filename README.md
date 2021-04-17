@@ -1,5 +1,7 @@
-# Java 8 Learning 
+---
+#                Java 8 Learning 
 
+---
 #### Imperative Vs Declarative Style
 > Perform Sum from 1 to 100 using How and What Style
 - Imperative
