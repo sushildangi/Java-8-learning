@@ -15,3 +15,4 @@
         sum = IntStream.rangeClosed(0, 100).sum();
         System.err.println("Sum using Declarative Approach : " + sum);
 ```
+---
