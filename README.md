@@ -10,9 +10,11 @@
         }
         System.err.println("Sum Using Imperative Approach : " + sum);
 ```
+>Sum Using Imperative Approach : 5050
 - Declarative
 ```java
         sum = IntStream.rangeClosed(0, 100).sum();
         System.err.println("Sum using Declarative Approach : " + sum);
 ```
+>Sum using Declarative Approach : 5050
 ---
